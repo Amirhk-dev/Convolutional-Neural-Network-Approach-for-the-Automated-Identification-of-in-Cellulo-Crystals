@@ -4,7 +4,8 @@ This repository includes all the codes related to the paper.
 Including folders/files:
 1. Mask R-CNN code
 2. SLURM script for submitting jobs to the [Maxwell Cluster](https://confluence.desy.de/display/MXW/).
-3. Train/Test images and their annotations
+3. Train/Test images, annotations/masks and prediction results are publicly available for download at [Zenodo](https://doi.org/10.5281/zenodo.10475962).
+   
  
 * The Mask R-CNN code is cloned from [this](https://github.com/matterport/Mask_RCNN) repository.
 
