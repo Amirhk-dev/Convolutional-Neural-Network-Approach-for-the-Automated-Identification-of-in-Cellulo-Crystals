@@ -2,7 +2,10 @@
 
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image, in our approach the objects include different types of crystals, referred as "G" and "H".
 
-![Instance Segmentation Sample for Target G](assets/target-G.png) ![Instance Segmentation Sample for Target H](assets/target-H.png)
+<p align="center">
+  <img src="assets/target-G.png" alt="Instance Segmentation Sample for Target G" width="400"/>
+  <img src="assets/target-H.png" alt="Instance Segmentation Sample for Target H" width="400"/>
+</p>
 
 This repository includes:
 * Source code for training the Mask R-CNN model for crystal segmentation
