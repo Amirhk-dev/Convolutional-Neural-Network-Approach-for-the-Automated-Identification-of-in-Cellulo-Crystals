@@ -1,6 +1,6 @@
 # Convolutional-Neural-Network-Approach-for-the-Automated-Identification-of-in-Cellulo-Crystals
 
-This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image, in our approach the objects include different types of crystals, referred as "G" and "H".
+This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image, in our approach the objects include different types of crystals, referred as "G" (left image) and "H" (right image).
 
 <p align="center">
   <img src="assets/target-G.png" alt="Instance Segmentation Sample for Target G" width="400"/>
