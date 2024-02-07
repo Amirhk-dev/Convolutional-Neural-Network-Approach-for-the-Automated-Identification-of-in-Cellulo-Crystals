@@ -13,6 +13,7 @@ This repository includes:
 * SLURM script "masks_rcnn_script.sh" for submitting jobs to the computation cluster, for the paper the [Maxwell Cluster](https://confluence.desy.de/display/MXW/) is used.
 * The file "requirements.txt" includes all the libraries relevant to run the project.
 * The "utils" folder contains Jupyter Notebooks for pre-processing the images and creating annotation masks from JSON files.
+* The trained models for detection and segmentation of crystal targets can be downloaded in: [target-G](https://drive.google.com/drive/folders/1YaWfc8pzmdZGn5YLe7SflQqLSlH7eikf?usp=drive_link) and [target-H](https://drive.google.com/drive/folders/1YjzH6hbFixCWIYrIxYe52os9mcQwOHcd?usp=drive_link) 
 
 ---
 **NOTE**
