@@ -17,7 +17,7 @@ This repository includes:
 
 ---
 **NOTE**
-Train/Test images, annotations/masks (in JSON format) and prediction results are publicly available for download at [Zenodo](https://doi.org/10.5281/zenodo.10475962).
+Train/Test images, annotations/masks (in JSON format), trained models and prediction results are publicly available for download at [Zenodo](https://doi.org/10.5281/zenodo.10475962).
 
 --- 
 
