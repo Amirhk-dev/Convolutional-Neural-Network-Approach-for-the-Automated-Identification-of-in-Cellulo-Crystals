@@ -13,7 +13,6 @@ This repository includes:
 * SLURM script "masks_rcnn_script.sh" for submitting jobs to the computation cluster, for the paper the [Maxwell Cluster](https://confluence.desy.de/display/MXW/) is used.
 * The file "requirements.txt" includes all the libraries relevant to run the project.
 * The "utils" folder contains Jupyter Notebooks for pre-processing the images and creating annotation masks from JSON files.
-* The trained models for detection and segmentation of crystal targets can be downloaded in: [target-G](https://drive.google.com/drive/folders/1YaWfc8pzmdZGn5YLe7SflQqLSlH7eikf?usp=drive_link) and [target-H](https://drive.google.com/drive/folders/1YjzH6hbFixCWIYrIxYe52os9mcQwOHcd?usp=drive_link) 
 
 ---
 **NOTE**
@@ -21,7 +20,7 @@ Train/Test images, annotations/masks (in JSON format), all trained models and pr
 
 --- 
 
-## Reference to the Mask R-CNN paper
+## Reference to the Mask R-CNN Paper
 ````
 @INPROCEEDINGS{8237584,
   author={He, Kaiming and Gkioxari, Georgia and Dollár, Piotr and Girshick, Ross},
@@ -30,6 +29,18 @@ Train/Test images, annotations/masks (in JSON format), all trained models and pr
   year={2017},
   pages={2980-2988},
   doi={10.1109/ICCV.2017.322}}
+````
+
+## Reference to the Mask R-CNN Code
+````
+@misc{matterport_maskrcnn_2017,
+  title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
+  author={Waleed Abdulla},
+  year={2017},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/matterport/Mask_RCNN}},
+}
 ````
 
 ## Reference to the published paper
