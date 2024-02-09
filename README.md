@@ -43,12 +43,23 @@ Train/Test images, annotations/masks (in JSON format), all trained models and pr
 }
 ````
 
-## Reference to the published paper
+## Reference to the Published Papers
 ````
-@INPROCEEDINGS{biorxiv_2023,
-author={Amirhossein Kardoost, Robert Schönherr, Carsten Deiter, Lars Redecke, Kristina Lorenzen, Joachim Schulz, Iñaki de Diego},
-journal = {bioRxiv},
-title = {Convolutional Neural Network Approach for the Automated Identification of in Cellulo Crystals},
-year = {2023},
-doi={https://doi.org/10.1101/2023.03.28.533948}}
+@article {Kardoost_bioRxiv,
+	author = {Amirhossein Kardoost and Robert Sch{\"o}nherr and Carsten Deiter and Lars Redecke and Kristina Lorenzen and Joachim Schulz and I{\~n}aki de Diego},
+	title = {Convolutional neural network approach for the automated identification of in cellulo crystals},
+	year = {2023},
+	doi = {10.1101/2023.03.28.533948},
+	publisher = {Cold Spring Harbor Laboratory},
+	journal = {bioRxiv}
+}
+
+@article {Kardoost_2024,
+	author = {Amirhossein Kardoost and Robert Sch{\"o}nherr and Carsten Deiter and Lars Redecke and Kristina Lorenzen and Joachim Schulz and I{\~n}aki de Diego},
+	title = {Convolutional neural network approach for the automated identification of in cellulo crystals},
+	year = {2024},
+	doi = {10.1107/S1600576724000682},
+	publisher = {IUCR/Wiley},
+	journal = {Journal of Applied Crystallography}
+}
 ````
