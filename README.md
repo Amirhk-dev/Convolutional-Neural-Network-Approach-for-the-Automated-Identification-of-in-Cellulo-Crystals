@@ -58,6 +58,7 @@ Train/Test images, annotations/masks (in JSON format), all trained models and pr
 	author = {Amirhossein Kardoost and Robert Sch{\"o}nherr and Carsten Deiter and Lars Redecke and Kristina Lorenzen and Joachim Schulz and I{\~n}aki de Diego},
 	title = {Convolutional neural network approach for the automated identification of in cellulo crystals},
 	year = {2024},
+	volume = {57},
 	doi = {10.1107/S1600576724000682},
 	publisher = {IUCR/Wiley},
 	journal = {Journal of Applied Crystallography}
